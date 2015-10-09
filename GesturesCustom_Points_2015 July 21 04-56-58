@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Custom_Points" timestamp=2015 July 21 04-56-58>
+	<Stroke>
+		<Point X="198" Y="141" />
+		<Point X="136" Y="218" />
+		<Point X="129" Y="233" />
+		<Point X="119" Y="266" />
+		<Point X="117" Y="282" />
+		<Point X="118" Y="312" />
+		<Point X="122" Y="327" />
+		<Point X="129" Y="342" />
+		<Point X="138" Y="357" />
+		<Point X="148" Y="369" />
+		<Point X="161" Y="380" />
+		<Point X="175" Y="389" />
+		<Point X="190" Y="395" />
+		<Point X="217" Y="401" />
+		<Point X="228" Y="401" />
+		<Point X="242" Y="399" />
+		<Point X="256" Y="395" />
+		<Point X="271" Y="389" />
+		<Point X="281" Y="380" />
+		<Point X="304" Y="356" />
+		<Point X="313" Y="342" />
+		<Point X="321" Y="330" />
+		<Point X="328" Y="316" />
+		<Point X="333" Y="304" />
+		<Point X="337" Y="292" />
+		<Point X="340" Y="281" />
+		<Point X="342" Y="272" />
+		<Point X="344" Y="264" />
+		<Point X="346" Y="255" />
+		<Point X="346" Y="243" />
+		<Point X="346" Y="227" />
+	</Stroke>
+</Gesture>

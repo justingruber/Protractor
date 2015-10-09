@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Custom_Points" timestamp=2015-July-21_04-59-24>
+	<Stroke>
+		<Point X="213" Y="126" />
+		<Point X="186" Y="153" />
+		<Point X="179" Y="162" />
+		<Point X="173" Y="173" />
+		<Point X="167" Y="184" />
+		<Point X="163" Y="196" />
+		<Point X="159" Y="207" />
+		<Point X="156" Y="220" />
+		<Point X="154" Y="232" />
+		<Point X="152" Y="244" />
+		<Point X="152" Y="256" />
+		<Point X="152" Y="269" />
+		<Point X="153" Y="282" />
+		<Point X="155" Y="295" />
+		<Point X="167" Y="326" />
+		<Point X="176" Y="340" />
+		<Point X="188" Y="354" />
+		<Point X="200" Y="366" />
+		<Point X="211" Y="375" />
+		<Point X="226" Y="382" />
+		<Point X="236" Y="387" />
+		<Point X="250" Y="390" />
+		<Point X="263" Y="391" />
+		<Point X="276" Y="390" />
+		<Point X="286" Y="387" />
+		<Point X="304" Y="381" />
+		<Point X="317" Y="375" />
+		<Point X="331" Y="366" />
+		<Point X="341" Y="357" />
+		<Point X="351" Y="347" />
+		<Point X="361" Y="335" />
+		<Point X="370" Y="322" />
+		<Point X="377" Y="310" />
+		<Point X="383" Y="295" />
+		<Point X="387" Y="281" />
+		<Point X="391" Y="266" />
+		<Point X="391" Y="250" />
+		<Point X="389" Y="234" />
+		<Point X="387" Y="221" />
+		<Point X="382" Y="207" />
+		<Point X="377" Y="194" />
+		<Point X="368" Y="180" />
+		<Point X="359" Y="170" />
+		<Point X="348" Y="159" />
+		<Point X="335" Y="149" />
+		<Point X="319" Y="141" />
+		<Point X="306" Y="135" />
+		<Point X="286" Y="130" />
+		<Point X="265" Y="128" />
+		<Point X="248" Y="128" />
+		<Point X="230" Y="131" />
+		<Point X="212" Y="134" />
+		<Point X="196" Y="139" />
+		<Point X="182" Y="145" />
+		<Point X="171" Y="150" />
+		<Point X="162" Y="155" />
+		<Point X="153" Y="161" />
+		<Point X="143" Y="171" />
+		<Point X="131" Y="183" />
+	</Stroke>
+</Gesture>

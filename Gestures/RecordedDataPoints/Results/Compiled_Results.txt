@@ -1,0 +1,38 @@
+Protractor
+
+Myo:
+	Cosine: 	 0/100	 = 0%
+	Cubic:  	 21/100  = 21%
+	Exponential: 0/100	 = 0%
+	Line:   	 0/100	 = 0%
+	Parabola:	 100/100 = 100%
+	Sine:		 5/100	 = 5%
+
+Leap (with Raw points removed):
+	Cosine: 	 0/158	 = 0%
+	Cubic:  	 2/150 	 = 1.33%
+	Exponential: 160/161 = 99.38%
+	Line:   	 0/136	 = 0%
+	Parabola:	 57/136	 = 41.91%
+	Sine:		 14/148  = 9.46%
+
+
+
+
+For $P
+
+Myo:
+	Cosine: 	 0/100	 = 0%
+	Cubic:  	 92/100  = 92%
+	Exponential: 68/100	 = 68%
+	Line:   	 8/100	 = 8%
+	Parabola:	 4/100   = 4%
+	Sine:		 0/100	 = 0%
+
+Leap (with Raw points removed):
+	Cosine: 	 0/158	 = 0%
+	Cubic:  	 2/150 	 = 1.33%
+	Exponential: 99/161  = 61.49%
+	Line:   	 1/136	 = 0.73%
+	Parabola:	 19/136	 = 13.97%
+	Sine:		 0/148   = 0%

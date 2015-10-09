@@ -1,0 +1,98 @@
+Myo: 
+	Parabola
+		Parabola 	(100/100)
+		Line 		(0/100)
+		Sine 		(0/100)
+		Cosine		(0/100)
+		Exponential (0/100)
+		Cubic 		(0/100)
+
+	Line
+		Parabola 	(96/100)
+		Line 		(0/100)
+		Sine 		(0/100)
+		Cosine		(1/100)
+		Exponential (2/100)
+		Cubic 		(2/100)
+
+	Sine
+		Parabola 	(94/100)
+		Line 		(0/100)
+		Sine 		(5/100)
+		Cosine 	    (0/100)
+		Exponential (1/100)
+		Cubic 		(0/100)
+
+	Cosine
+		Parabola    (99/100)
+		Line        (0/100)
+		Sine        (1/100)
+		Cosine      (0/100)
+		Exponential (0/100)
+		Cubic 	    (0/100)
+
+	Exponential
+		Parabola    (100/100)
+		Line 	    (0/100)
+		Sine 	    (0/100)
+		Cosine 	    (0/100)
+		Exponential (0/100)
+		Cubic 	    (0/100)
+
+	Cubic
+		Parabola	(55/100)
+		Line		(0/100)
+		Sine 		(5/100)
+		Cosine 		(2/100)
+		Exponential (17/100)
+		Cubic		(21/100)
+
+Leap
+
+	Parabola
+		Parabola 	(57/136) 41.92
+		Line 		(0/136)  0
+		Sine 		(0/136)  0
+		Cosine 		(0/136)  0
+		Exponential (79/136) 58.1
+		Cubic 		(0/136)  0
+
+	Line
+		Parabola 	(16/136)
+		Line 		(0/136)
+		Sine 		(1/136)
+		Cosine 		(0/136)
+		Exponential	(118/136)
+		Cubic 		(1/136)
+
+	Sine
+		Parabola 	(111/148)
+		Line 		(0/148)
+		Sine 		(14/148)
+		Cosine 		(0/148)
+		Exponential (23/148)
+		Cubic 		(0/148)
+
+	Cosine
+		Parabola	(14/158)
+		Line 		(0/158)
+		Sine 		(0/158)
+		Cosine 		(0/158)
+		Exponential (144/158)
+		Cubic 		(0/158)
+
+	Exponential
+		Parabola	(1/161)
+		Line 		(0/161)
+		Sine 		(0/161)
+		Cosine 		(0/161)
+		Exponential (160/161)
+		Cubic 		(0/161)
+
+	Cubic
+		Parabola	(55/150)
+		Line 		(0/150)
+		Sine 		(7/150)
+		Cosine 		(0/150)
+		Exponential (86/150)
+		Cubic 		(2/150)

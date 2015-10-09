@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.4</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/Protractor.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="Protractor.Launcher" design-size="600 600">
+    <action-group name="Default">
+      <action id="FileAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">File</property>
+        <property name="ShortLabel" translatable="yes">File</property>
+      </action>
+      <action id="GestureAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Gesture</property>
+        <property name="ShortLabel" translatable="yes">Gesture</property>
+      </action>
+      <action id="HelpAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Help</property>
+        <property name="ShortLabel" translatable="yes">Help</property>
+      </action>
+      <action id="AboutAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">About</property>
+        <property name="ShortLabel" translatable="yes">About</property>
+      </action>
+      <action id="FileAction1">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">File</property>
+        <property name="ShortLabel" translatable="yes">File</property>
+      </action>
+      <action id="QuitAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Quit</property>
+        <property name="ShortLabel" translatable="yes">Quit</property>
+        <signal name="Activated" handler="quitProgram" />
+      </action>
+      <action id="GestureAction1">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Gesture</property>
+        <property name="ShortLabel" translatable="yes">Gesture</property>
+      </action>
+      <action id="OpenAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Open</property>
+        <property name="ShortLabel" translatable="yes">Open</property>
+        <signal name="Activated" handler="openGesture" />
+      </action>
+      <action id="SaveAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Save</property>
+        <property name="ShortLabel" translatable="yes">Save</property>
+        <signal name="Activated" handler="saveGesture" />
+      </action>
+      <action id="HelpAction1">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">Help</property>
+        <property name="ShortLabel" translatable="yes">Help</property>
+      </action>
+      <action id="AboutAction1">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">About</property>
+        <property name="ShortLabel" translatable="yes">About</property>
+      </action>
+      <action id="AboutAction2">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">About</property>
+        <property name="ShortLabel" translatable="yes">About</property>
+        <signal name="Activated" handler="aboutScreen" />
+      </action>
+    </action-group>
+    <property name="MemberName" />
+    <property name="WidthRequest">500</property>
+    <property name="HeightRequest">500</property>
+    <property name="Title" translatable="yes">Protactor</property>
+    <property name="WindowPosition">CenterAlways</property>
+    <property name="DefaultWidth">500</property>
+    <property name="DefaultHeight">500</property>
+    <child>
+      <placeholder />
+    </child>
+  </widget>
+</stetic-interface>

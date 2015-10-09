@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="TwoXMinThreeSqPlusfour">
+	<Stroke>
+		<Point X="210" Y="-224" />
+		<Point X="215" Y="-166" />
+		<Point X="220" Y="-112" />
+		<Point X="225" Y="-62" />
+		<Point X="230" Y="-16" />
+		<Point X="235" Y="26" />
+		<Point X="240" Y="64" />
+		<Point X="245" Y="98" />
+		<Point X="250" Y="128" />
+		<Point X="255" Y="154" />
+		<Point X="260" Y="176" />
+		<Point X="265" Y="194" />
+		<Point X="270" Y="208" />
+		<Point X="275" Y="218" />
+		<Point X="280" Y="224" />
+		<Point X="285" Y="226" />
+		<Point X="290" Y="224" />
+		<Point X="295" Y="218" />
+		<Point X="300" Y="208" />
+		<Point X="305" Y="194" />
+		<Point X="310" Y="176" />
+		<Point X="315" Y="154" />
+		<Point X="320" Y="128" />
+		<Point X="325" Y="98" />
+		<Point X="330" Y="64" />
+		<Point X="335" Y="26" />
+		<Point X="340" Y="-16" />
+		<Point X="345" Y="-62" />
+		<Point X="350" Y="-112" />
+		<Point X="355" Y="-166" />
+		<Point X="360" Y="-224" />
+	</Stroke>
+</Gesture>
