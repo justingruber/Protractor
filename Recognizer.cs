@@ -2,7 +2,7 @@
  * The Protractor Recognizer (C# version)
  *
  *		Justin Gruber, Undergraduate
- *	    University of Guelph
+ *		University of Guelph
  *		Software Engineering Department
  *		50 Stone Road East
  *		Guelph, ON N1G 2W1
